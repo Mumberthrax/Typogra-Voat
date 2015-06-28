@@ -10,4 +10,4 @@ Typogra is a free theme for subverses on [Voat](https://voat.co). The style is b
 2. Paste the CSS code inside the 'Custom stylesheet' text box ([minimize the code](http://cssminifier.com) if necessary).
 3. Click 'Save' and watch as your subverse is transformed into something beautiful.
 
-If you have any questions or concerns, [voice your mind at /v/Typogra](http://whoaverse.com/v/Typogra) and we'll be sure to 'attend to your concerns'.
+If you have any questions or concerns, [voice your mind at /v/Typogra](http://voat.co/v/Typogra) and we'll be sure to 'attend to your concerns'.
